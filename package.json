@@ -1,0 +1,30 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerrickPeng0615/my-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerrickPeng0615/my-website/issues"
+  },
+  "homepage": "https://github.com/DerrickPeng0615/my-website#readme",
+  "private": "true",
+  "dependencies": {
+    "@remotion/cli": "^4.0.534",
+    "@remotion/three": "^4.0.534",
+    "hyperframes": "^0.8.145",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.534",
+    "three": "^0.186.1"
+  }
+}
